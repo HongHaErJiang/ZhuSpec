@@ -1,0 +1,2 @@
+# ZhuSpec
+all method spec
